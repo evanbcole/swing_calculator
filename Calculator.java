@@ -3,11 +3,7 @@ Evan Cole
 ebc180001
 
 Programming calculator made with Swing, based on the Windows 10 calculator.
-
-Note to grader:
-I intentionally chose not to include to buttons highlighted in red on the assignment page as I felt like they were
-unnecessary since we were not required to implement them.
- */
+*/
 
 import java.awt.*;
 import java.awt.event.ActionEvent;
